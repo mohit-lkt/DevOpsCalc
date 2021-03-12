@@ -1,7 +1,5 @@
-package Calculator;
+import java.util.Scanner;
 
-import java.util.*;
-import java.lang.Math;
 public class Main
 {
     public Main() {
