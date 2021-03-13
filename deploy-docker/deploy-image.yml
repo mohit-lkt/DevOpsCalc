@@ -1,0 +1,10 @@
+---
+- name: Pull Docker Image and Create the Container
+  hosts: Host
+  tasks:
+    - name: Docker login
+      shell:
+        cmd: docker login
+    - name: Pulling the Image
+      shell:
+        cmd: docker pull mohit24lkt/devopscalc:latest
