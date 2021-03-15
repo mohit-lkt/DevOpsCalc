@@ -1,6 +1,6 @@
 ---
 - name: Pull Docker Image and Create the Container
-  hosts: Host
+  hosts: remoteserver
   tasks:
     - name: Docker login
       shell:
