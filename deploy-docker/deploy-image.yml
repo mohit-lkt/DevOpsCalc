@@ -1,6 +1,6 @@
 ---
 - name: Pull Docker Image and Create the Container
-  hosts: localhost
+  hosts: all
   tasks:
     - name: Docker login
       shell:
