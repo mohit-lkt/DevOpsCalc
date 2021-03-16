@@ -1,6 +1,6 @@
 ---
 - name: Pull Docker Image and Create the Container
-  hosts: Host
+  hosts: inventory
   tasks:
     - name: Docker login
       shell:
