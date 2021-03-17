@@ -1,0 +1,22 @@
+2021-03-17 14:22:15.211 [main] INFO  Main - power of the number 2.0,3.0
+2021-03-17 14:22:15.218 [main] INFO  Main - power of the number 2.0,3.0 is 8.0
+2021-03-17 14:22:40.541 [main] INFO  Main - Find the Square Root of number 4.0
+2021-03-17 14:22:40.551 [main] INFO  Main - Result of the square root of 4.0 is 2.0
+2021-03-17 14:22:46.625 [main] INFO  Main - Find the Square Root of number 2.0
+2021-03-17 14:22:46.626 [main] INFO  Main - Result of the square root of 2.0 is 1.4142135623730951
+2021-03-17 14:22:52.664 [main] INFO  Main - find the log of 2.0
+2021-03-17 14:22:52.665 [main] INFO  Main - find the log of 2.0 is 0.6931471805599453
+2021-03-17 14:22:57.575 [main] INFO  Main - power of the number 2.0,4.0
+2021-03-17 14:22:57.575 [main] INFO  Main - power of the number 2.0,4.0 is 16.0
+2021-03-17 14:23:01.341 [main] INFO  Main - find the log of 4.0
+2021-03-17 14:23:01.342 [main] INFO  Main - find the log of 4.0 is 1.3862943611198906
+2021-03-17 14:23:04.873 [main] INFO  Main - To find Factorial of number 6.0
+2021-03-17 14:23:04.874 [main] INFO  Main - Result of factorial of 6.0 is 720.0
+2021-03-17 14:23:09.390 [main] INFO  Main - Find the Square Root of number 3.0
+2021-03-17 14:23:09.391 [main] INFO  Main - Result of the square root of 3.0 is 1.7320508075688772
+2021-03-17 14:23:17.100 [main] INFO  Main - power of the number 1.0,4.0
+2021-03-17 14:23:17.101 [main] INFO  Main - power of the number 1.0,4.0 is 1.0
+2021-03-17 14:23:22.242 [main] INFO  Main - find the log of 9.0
+2021-03-17 14:23:22.243 [main] INFO  Main - find the log of 9.0 is 2.1972245773362196
+2021-03-17 14:23:29.474 [main] INFO  Main - Find the Square Root of number 3.0
+2021-03-17 14:23:29.475 [main] INFO  Main - Result of the square root of 3.0 is 1.7320508075688772
